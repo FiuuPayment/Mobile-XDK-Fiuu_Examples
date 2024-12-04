@@ -32,7 +32,7 @@
 | affinOnline | abb | FPX_ABB |
 | i-Muamalat | muamalat | FPX_BMMB |
 | OCBC Online | ocbc | FPX_OCBC |
-| Agrobank Online | fpx_agrobank | FPX_AGROBANK |
+| Agrobank Online | FPX_AGROBANK | FPX_AGROBANK |
 | FPX_EMANDATE | FPX_EMANDATE | FPX_EMANDATE |
 | FPX_DIRECTDEBIT | FPX_DIRECTDEBIT | | Obsolete
 | FPX | fpx | | Obsolete
