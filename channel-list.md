@@ -15,7 +15,7 @@
 # FPX (20)
 | Channel name | mp_channel | Endpoint Label | Remarks
 | --- | --- |--- |---
-| Maybank2u | maybank2u | FPX_MB2U |
+| Maybank2u | RPP_RTP_MB2U | FPX_MB2U |
 | Alliance online | FPX_ABMB | FPX_ABMB |
 | i-Rakyat | FPX_BKRM | FPX_BKRM |
 | myBSN | FPX_BSN | FPX_BSN |
@@ -23,15 +23,15 @@
 | HSBC Online | FPX_HSBC | FPX_HSBC |
 | Standard Chartered Online | scb | FPX_SCB |
 | KFH Online | kuwait-finance | FPX_KFH |
-| CIMB Clicks | cimb | FPX_CIMBCLICKS |
-| RHB Now | rhb | FPX_RHB |
-| PBe | publicbank | FPX_PBB |
+| CIMB Clicks | RPP_RTP_CIMBCLICKS | FPX_CIMBCLICKS |
+| RHB Now | RPP_RTP_RHB | FPX_RHB |
+| PBe | RPP_RTP_PBB | FPX_PBB |
 | Hong Leong Connect | hlb | FPX_HLB |
 | Bank Islam | bankislam | FPX_BIMB |
 | AmOnline | amb | FPX_AMB |
 | affinOnline | abb | FPX_ABB |
 | i-Muamalat | muamalat | FPX_BMMB |
-| OCBC Online | ocbc | FPX_OCBC |
+| OCBC Online | RPP_RTP_OCBC | FPX_OCBC |
 | Agrobank Online | FPX_AGROBANK | FPX_AGROBANK |
 | FPX_EMANDATE | FPX_EMANDATE | FPX_EMANDATE |
 | FPX_DIRECTDEBIT | FPX_DIRECTDEBIT | | Obsolete
