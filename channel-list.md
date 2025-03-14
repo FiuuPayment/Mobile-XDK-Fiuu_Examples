@@ -37,6 +37,29 @@
 | FPX_DIRECTDEBIT | FPX_DIRECTDEBIT | | Obsolete
 | FPX | fpx | | Obsolete
 
+# RPP RTP (18)
+| Channel name | mp_channel | Endpoint Label | Remarks
+| --- | --- |--- |---
+| Maybank2u | RPP_RTP_MB2U | RPP_RTP_MB2U |
+| Alliance online | RPP_RTP_ABMB | RPP_RTP_ABMB |
+| i-Rakyat | RPP_RTP_BKRM | RPP_RTP_BKRM |
+| myBSN | RPP_RTP_BSN | RPP_RTP_BSN |
+| UOB Online | RPP_RTP_UOB | RPP_RTP_UOB |
+| HSBC Online | RPP_RTP_HSBC | RPP_RTP_HSBC |
+| Standard Chartered Online | RPP_RTP_SCB | RPP_RTP_SCB |
+| KFH Online | RPP_RTP_KFH | RPP_RTP_KFH |
+| CIMB Clicks | RPP_RTP_CIMBCLICKS | RPP_RTP_CIMBCLICKS |
+| RHB Now | RPP_RTP_RHB | RPP_RTP_RHB |
+| PBe | RPP_RTP_PBB | RPP_RTP_PBB |
+| Hong Leong Connect | RPP_RTP_HLB | RPP_RTP_HLB |
+| Bank Islam | RPP_RTP_BIMB | RPP_RTP_BIMB |
+| AmOnline | RPP_RTP_AMB | RPP_RTP_AMB |
+| affinOnline | RPP_RTP_ABB | RPP_RTP_ABB |
+| i-Muamalat | RPP_RTP_BMMB | RPP_RTP_BMMB |
+| OCBC Online | RPP_RTP_OCBC | RPP_RTP_OCBC |
+| Agrobank Online | RPP_RTP_AGROBANK | RPP_RTP_AGROBANK |
+| RPP_RTP_EMANDATE | RPP_RTP_EMANDATE | RPP_RTP_EMANDATE |
+
 # FPX B2B (17)
 | Channel name | mp_channel | Endpoint Label | Remarks
 | --- | --- |--- |---
